@@ -1,0 +1,2 @@
+webpackJsonp([2],{"8avx":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=t("DRyU"),u=t("46Yf"),l=u(null,r.a,!1,null,null,null);n.default=l.exports},DRyU:function(e,n,t){"use strict";var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("div",[e._v("这里是博客导航")]),t("nuxt")],1)},u=[],l={render:r,staticRenderFns:u};n.a=l}});
+//# sourceMappingURL=blog.9585607e57d64a696ffc.js.map
